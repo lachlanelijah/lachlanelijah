@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lachlanelijah
-- 👀 I’m interested in UI/UX design, and iOS and macOS application development.
+- 👀 I’m interested in UI/UX design, and iOS/macOS application development.
 - 🌱 I’m currently learning Java and Swift, and studying a Bachelor of Information Technology (Co-op) at the University of Technology Sydney.
 - 📫 You can reach me at lachlanelijah#8380 on Discord.
 
